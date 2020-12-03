@@ -44,5 +44,11 @@ namespace WebApplication1.Controllers
         };
             return View(empList);
         }
+
+
+        public IActionResult ourpview()
+        {
+            return View();
+        }
     }
 }

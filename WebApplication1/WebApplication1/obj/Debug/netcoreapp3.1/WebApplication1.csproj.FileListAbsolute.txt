@@ -152,3 +152,4 @@ F:\git_dot_net\ex4\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebAp
 F:\git_dot_net\ex4\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 F:\git_dot_net\ex4\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 F:\git_dot_net\ex4\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Index.cshtml.g.cs
+F:\git_dot_net\ex4\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Emp\ourpview.cshtml.g.cs
