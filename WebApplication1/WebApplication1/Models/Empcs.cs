@@ -7,9 +7,11 @@ namespace WebApplication1.Models
 {
     public class Empcs
     {
+        
+
         public int Eid { get; set; }
-        public string Ename { get; set; }
-        public string Edsign { get; set; }
-        public DateTime Edoj { get; set; }
+        public string EmpName { get; set; }
+        public string EmpDesignation { get; set; }
+        public DateTime EmpDOJ { get; set; }
     }
 }
